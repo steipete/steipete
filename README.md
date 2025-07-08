@@ -1,6 +1,6 @@
 # Hi, I'm Peter 👋
 
-📍 **Vienna ↔ London** | 🤖 **AI-Native Developer** | 🚀 **Ex-PSPDFKit Founder**
+📍 **Vienna ↔ London** | 🤖 **Full-Time Open Source Builder** | 🚀 **Ex-PSPDFKit Founder**
 
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -18,10 +18,11 @@
 
 ### AI Developer Tools
 - **[VibeTunnel](https://github.com/amantus-ai/vibetunnel)** - Turn any browser into your Mac terminal (24h hackathon winner)
-- **[Peekaboo MCP](https://github.com/steipete/peekaboo-mcp)** - Lightning-fast macOS screenshots for AI agents
-- **[Vibe Meter](https://github.com/steipete/vibe-meter)** - Monitor your AI costs in real-time (built after $900 Cursor bill)
+- **[Peekaboo](https://github.com/steipete/peekaboo-mcp)** - Lightning-fast macOS screenshots (and soon, automation) for AI agents
+- **[Vibe Meter](https://github.com/steipete/vibe-meter)** - Monitor your AI costs in real-time
 - **[Claude Code MCP](https://github.com/steipete/claude-code-mcp)** - Integrate Claude Code into Cursor
 - **[macOS Automator MCP](https://github.com/steipete/macos-automator-mcp)** - Run AppleScript/JXA on macOS
+- **[LLM-Optimized Docs](https://steipete.me/posts/2025/llm-codes-transform-developer-docs)** - Transform developer documentation for AI-first workflows
 - **[Demark](https://github.com/steipete/demark)** - HTML to Markdown conversion in Swift
 - **[Stats Store](https://github.com/steipete/stats-store)** - Privacy-first analytics for Sparkle
 
