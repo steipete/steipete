@@ -38,18 +38,17 @@
 
 ## 🎯 What I'm Doing
 
-- 🤖 **Living in the future** - Using Claude Code with 20x productivity gains
-- 🛠️ **Building MCP ecosystem** - Creating tools that enhance AI-assisted development
-- 📝 **Writing about AI workflows** - Sharing learnings from 16-hour vibe-coding sessions
+- 🤖 **Living in the future** - Learning and building tools to make agentic engineering faster for everyone
+- 📝 **Writing about AI workflows** - Sharing my learnings on [steipete.me](https://steipete.me)
 - 🚀 **Rapid prototyping** - Full apps in days, not months
-- 🎤 **Speaking at conferences** - On AI-native development and the future of coding
+- 🎤 **[Speaking at conferences](https://github.com/steipete/speaking)** - On vibe coding vs agentic engineering and the future of development
 
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Claude Code is My Computer](https://steipete.me/posts/2025/claude-code-is-my-computer)
 - [VibeTunnel: Turn Any Browser Into Your Mac Terminal](https://steipete.me/posts/2025/vibetunnel)
-- [When AI Meets Madness: Peter's 16-Hour Days](https://steipete.me/posts/2025/when-ai-meets-madness-peters-16-hour-days)
+- [Slot Machines for Programmers: How Peter Builds Apps 20x Faster with AI](https://steipete.me/posts/2025/when-ai-meets-madness-peters-16-hour-days)
 - [Stop Overthinking AI Subscriptions](https://steipete.me/posts/2025/stop-overthinking-ai-subscriptions)
 - [Finding My Spark Again](https://steipete.me/posts/2025/finding-my-spark-again)
 <!-- BLOG-POST-LIST:END -->
@@ -57,6 +56,8 @@
 ## 🤝 Connect
 
 [![Twitter](https://img.shields.io/badge/-@steipete-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/steipete)
+[![Mastodon](https://img.shields.io/badge/-@steipete-6364FF?style=flat-square&logo=mastodon&logoColor=white)](https://mastodon.social/@steipete)
+[![Bluesky](https://img.shields.io/badge/-steipete.me-00A8E8?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/steipete.me)
 [![Blog](https://img.shields.io/badge/-steipete.me-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://steipete.me)
 [![LinkedIn](https://img.shields.io/badge/-Peter_Steinberger-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steipete)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/steipete)
