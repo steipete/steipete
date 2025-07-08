@@ -32,7 +32,7 @@
 ### Work-in-Progress
 - **[Terminator MCP](https://github.com/steipete/Terminator)** - Manage terminals outside the loop for better stability
 - **[Conduit MCP](https://github.com/steipete/conduit-mcp)** - Advanced file manipulation for faster refactoring
-- **[XC Sentinel](https://github.com/steipete/xcsentinel)** - Monitor and auto-restart Xcode when it hangs
+- **[XC Sentinel](https://github.com/steipete/xcsentinel)** - Intelligent Xcode automation with incremental builds and AI-friendly output
 
 ### Legacy Work
 - **[InterposeKit](https://github.com/steipete/InterposeKit)** - Modern Swift method swizzling
