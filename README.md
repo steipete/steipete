@@ -22,14 +22,17 @@
 - **[Peekaboo](https://github.com/steipete/peekaboo-mcp)** - Lightning-fast macOS screenshots for AI agents
 - **[Vibe Meter](https://github.com/steipete/vibe-meter)** - Monitor your AI costs in real-time
 - **[Claude Code MCP](https://github.com/steipete/claude-code-mcp)** - Integrate Claude Code into Cursor
-- **[Terminator MCP](https://github.com/steipete/Terminator)** - Manage terminals outside the loop for better stability
-- **[Conduit MCP](https://github.com/steipete/conduit-mcp)** - Advanced file manipulation for faster refactoring
 - **[macOS Automator MCP](https://github.com/steipete/macos-automator-mcp)** - Run AppleScript/JXA on macOS
 - **[AXorcist](https://github.com/steipete/AXorcist)** - Accessibility framework for macOS automation
 - **[agent-rules](https://github.com/steipete/agent-rules)** - Pre-converted Markdown documentation repository
 - **[LLM-Optimized Docs](https://steipete.me/posts/2025/llm-codes-transform-developer-docs)** - Transform developer documentation for AI-first workflows
 - **[Demark](https://github.com/steipete/demark)** - HTML to Markdown conversion in Swift
 - **[Stats Store](https://github.com/steipete/stats-store)** - Privacy-first analytics for Sparkle
+
+### Work-in-Progress
+- **[Terminator MCP](https://github.com/steipete/Terminator)** - Manage terminals outside the loop for better stability
+- **[Conduit MCP](https://github.com/steipete/conduit-mcp)** - Advanced file manipulation for faster refactoring
+- **[XC Sentinel](https://github.com/steipete/xcsentinel)** - Monitor and auto-restart Xcode when it hangs
 
 ### Legacy Work
 - **[InterposeKit](https://github.com/steipete/InterposeKit)** - Modern Swift method swizzling
