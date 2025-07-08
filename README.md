@@ -88,6 +88,6 @@
 - 🖥️ Run 3-6 Claude instances concurrently
 - ☕ Powered by Vienna coffee culture
 - 💪 Gym enthusiast (when not coding)
-- 🎮 VR enthusiast exploring spatial computing
+- 🏳️‍🌈 Coaches LGBTQ+ folks at [Out In Tech](https://outintech.com/)
 
 </details>
