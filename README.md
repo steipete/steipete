@@ -27,6 +27,7 @@
 - **[llm.codes](https://github.com/amantus-ai/llm-codes)** - Convert JavaScript-heavy docs into AI-readable format
 - **[Stats Store](https://github.com/steipete/stats-store)** - Privacy-first analytics for Sparkle
 - **[agent-rules](https://github.com/steipete/agent-rules)** - Pre-converted Markdown documentation repository
+- **[Demark](https://github.com/steipete/demark)** - HTML to Markdown conversion in Swift
 
 ### Work-in-Progress
 - **[Terminator MCP](https://github.com/steipete/Terminator)** - Manage terminals outside the loop for better stability
@@ -36,7 +37,6 @@
 
 ### Legacy Work
 - **[CodeLooper](https://github.com/steipete/CodeLooper)** - macOS menubar app for Cursor workflow monitoring and automation
-- **[Demark](https://github.com/steipete/demark)** - HTML to Markdown conversion in Swift
 - **[InterposeKit](https://github.com/steipete/InterposeKit)** - Modern Swift method swizzling
 - **[Aspects](https://github.com/steipete/Aspects)** - AOP for Objective-C (10k+ stars)
 - **[PSPDFKit](https://pspdfkit.com)** - Industry-leading PDF SDK ([exited 2021](https://techcrunch.com/2021/10/01/pspdfkit-raises-116m-its-first-outside-money-now-nearly-1b-people-use-apps-powered-by-its-collaboration-signing-and-markup-tools/))
