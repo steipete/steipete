@@ -16,7 +16,6 @@
 
 ## Current Projects
 
-### AI Developer Tools
 - **[Peekaboo](https://github.com/steipete/Peekaboo)** - Lightning-fast macOS screenshots and GUI automation for AI agents
 - **[VibeTunnel](https://github.com/amantus-ai/vibetunnel)** - Turn any browser into your Mac terminal (24h hackathon winner)
 - **[Poltergeist](https://github.com/steipete/poltergeist)** - Cross-platform automation library (published to npm)
@@ -28,7 +27,6 @@
 - **[llm.codes](https://github.com/amantus-ai/llm-codes)** - Convert JavaScript-heavy docs into AI-readable format
 - **[Stats Store](https://github.com/steipete/stats-store)** - Privacy-first analytics for Sparkle
 - **[agent-rules](https://github.com/steipete/agent-rules)** - Pre-converted Markdown documentation repository
-- **[LLM-Optimized Docs](https://steipete.me/posts/2025/llm-codes-transform-developer-docs)** - Transform developer documentation for AI-first workflows
 
 ### Work-in-Progress
 - **[Terminator MCP](https://github.com/steipete/Terminator)** - Manage terminals outside the loop for better stability
