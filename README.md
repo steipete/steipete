@@ -17,24 +17,28 @@
 ## Current Projects
 
 ### AI Developer Tools
+- **[Peekaboo](https://github.com/steipete/Peekaboo)** - Lightning-fast macOS screenshots and GUI automation for AI agents
 - **[VibeTunnel](https://github.com/amantus-ai/vibetunnel)** - Turn any browser into your Mac terminal (24h hackathon winner)
-- **[llm.codes](https://github.com/amantus-ai/llm-codes)** - Convert JavaScript-heavy docs into AI-readable format
-- **[Peekaboo](https://github.com/steipete/peekaboo-mcp)** - Lightning-fast macOS screenshots for AI agents
-- **[Vibe Meter](https://github.com/steipete/vibe-meter)** - Monitor your AI costs in real-time
+- **[Poltergeist](https://github.com/steipete/poltergeist)** - Cross-platform automation library (published to npm)
 - **[Claude Code MCP](https://github.com/steipete/claude-code-mcp)** - Integrate Claude Code into Cursor
 - **[macOS Automator MCP](https://github.com/steipete/macos-automator-mcp)** - Run AppleScript/JXA on macOS
 - **[AXorcist](https://github.com/steipete/AXorcist)** - Accessibility framework for macOS automation
+- **[Tachikoma](https://github.com/steipete/Tachikoma)** - Swift testing and automation framework
+- **[Vibe Meter](https://github.com/steipete/vibe-meter)** - Monitor your AI costs in real-time
+- **[llm.codes](https://github.com/amantus-ai/llm-codes)** - Convert JavaScript-heavy docs into AI-readable format
+- **[Stats Store](https://github.com/steipete/stats-store)** - Privacy-first analytics for Sparkle
 - **[agent-rules](https://github.com/steipete/agent-rules)** - Pre-converted Markdown documentation repository
 - **[LLM-Optimized Docs](https://steipete.me/posts/2025/llm-codes-transform-developer-docs)** - Transform developer documentation for AI-first workflows
-- **[Demark](https://github.com/steipete/demark)** - HTML to Markdown conversion in Swift
-- **[Stats Store](https://github.com/steipete/stats-store)** - Privacy-first analytics for Sparkle
 
 ### Work-in-Progress
 - **[Terminator MCP](https://github.com/steipete/Terminator)** - Manage terminals outside the loop for better stability
 - **[Conduit MCP](https://github.com/steipete/conduit-mcp)** - Advanced file manipulation for faster refactoring
 - **[XC Sentinel](https://github.com/steipete/xcsentinel)** - Intelligent Xcode automation with incremental builds and AI-friendly output
+- **[Matcha](https://github.com/steipete/Matcha)** - Swift port of Bubble Tea TUI framework
 
 ### Legacy Work
+- **[CodeLooper](https://github.com/steipete/CodeLooper)** - macOS menubar app for Cursor workflow monitoring and automation
+- **[Demark](https://github.com/steipete/demark)** - HTML to Markdown conversion in Swift
 - **[InterposeKit](https://github.com/steipete/InterposeKit)** - Modern Swift method swizzling
 - **[Aspects](https://github.com/steipete/Aspects)** - AOP for Objective-C (10k+ stars)
 - **[PSPDFKit](https://pspdfkit.com)** - Industry-leading PDF SDK ([exited 2021](https://techcrunch.com/2021/10/01/pspdfkit-raises-116m-its-first-outside-money-now-nearly-1b-people-use-apps-powered-by-its-collaboration-signing-and-markup-tools/))
