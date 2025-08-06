@@ -86,6 +86,7 @@
 - **[How to Code 20x Faster with Claude Code](https://www.youtube.com/watch?v=JGxyrPkAKiY&t=2s)** - Detailed walkthrough of my AI-native development workflow
 - **[Inside Apple's AI Fail](https://www.podcast.de/episode/689639265/inside-apples-ai-fail-mit-peter-steinberger)** - German podcast discussing Apple Intelligence
 - **[AI Native Development Interview](https://www.youtube.com/watch?v=fu7th5HiADo)** - Deep dive into vibe coding and the future of software development
+- **[Claude 3 Sonnet 'Funeral' in San Francisco](https://www.wired.com/story/claude-3-sonnet-funeral-san-francisco/)** - WIRED article featuring the memorial for Claude 3.5 Sonnet
 
 ### Philosophy
 
