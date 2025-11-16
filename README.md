@@ -36,6 +36,7 @@
 - **[llm.codes](https://github.com/amantus-ai/llm-codes)** - Transform JavaScript-heavy docs into clean Markdown (llm.codes)
 - **[Stats Store](https://github.com/steipete/stats-store)** - Fast, privacy-first analytics for Sparkle (stats.store)
 - **[Demark](https://github.com/steipete/demark)** - HTML in, pristine Markdown out—blink-fast converter (demark.md)
+- **[homebrew-tap](https://github.com/steipete/homebrew-tap)** - Brew tap for shipping my CLI tools fast
 ### Legacy Work
 - **[CodeLooper](https://github.com/steipete/CodeLooper)** - macOS menubar app for Cursor workflow monitoring and automation
 - **[InterposeKit](https://github.com/steipete/InterposeKit)** - Modern Swift method swizzling
