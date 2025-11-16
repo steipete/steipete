@@ -18,25 +18,25 @@
 
 ## Current Projects
 
-- **[Peekaboo](https://github.com/steipete/Peekaboo)** - Lightning-fast macOS screenshots and GUI automation for AI agents
-- **[Poltergeist](https://github.com/steipete/poltergeist)** - Cross-platform automation library (published to npm)
-- **[VibeTunnel](https://github.com/amantus-ai/vibetunnel)** - Turn any browser into your Mac terminal (24h hackathon winner)
-- **[macOS Automator MCP](https://github.com/steipete/macos-automator-mcp)** - Run AppleScript/JXA on macOS
-- **[Claude Code MCP](https://github.com/steipete/claude-code-mcp)** - Integrate Claude Code into Cursor
-- **[AXorcist](https://github.com/steipete/AXorcist)** - Accessibility framework for macOS automation
-- **[Tachikoma](https://github.com/steipete/Tachikoma)** - Swift testing and automation framework
-- **[VibeMeter](https://github.com/steipete/vibemeter)** - Monitor AI/cloud costs in real-time
-- **[Trimmy](https://github.com/steipete/Trimmy)** - Flatten multi-line shell snippets so they paste and run once
-- **[TauTUI](https://github.com/steipete/TauTUI)** - Swift port of the lightweight pi-tui terminal UI
-- **[Commander](https://github.com/steipete/Commander)** - Swifty take on Commander.js; alternative to Swift ArgumentParser
-- **[mcporter](https://github.com/steipete/mcporter)** - Call MCPs via TypeScript or package them as a CLI
-- **[sweetlink](https://github.com/steipete/sweetlink)** - Connect your agent to your web app; like Playwright but uses your current tab
-- **[oracle](https://github.com/steipete/oracle)** - Ask the oracle (GPT-5 Pro) with custom context and files
-- **[tmuxwatch](https://github.com/steipete/tmuxwatch)** - Simple TUI to watch tmux sessions
-- **[agent-rules](https://github.com/steipete/agent-rules)** - Pre-converted Markdown documentation repository
-- **[llm.codes](https://github.com/amantus-ai/llm-codes)** - Convert JavaScript-heavy docs into AI-readable format
-- **[Stats Store](https://github.com/steipete/stats-store)** - Privacy-first analytics for Sparkle
-- **[Demark](https://github.com/steipete/demark)** - HTML to Markdown conversion in Swift
+- **[Peekaboo](https://github.com/steipete/Peekaboo)** - macOS CLI + MCP server for screenshots and VQA that lets agents see your screen
+- **[Poltergeist](https://github.com/steipete/poltergeist)** - The ghost that keeps your builds fresh—universal hot reload & file watcher
+- **[VibeTunnel](https://github.com/amantus-ai/vibetunnel)** - Turn any browser into your terminal; command agents from the road (vt.sh)
+- **[macOS Automator MCP](https://github.com/steipete/macos-automator-mcp)** - AppleScript/JXA MCP server to drive macOS apps
+- **[Claude Code MCP](https://github.com/steipete/claude-code-mcp)** - Claude Code as a one-shot MCP server: an agent inside your agent
+- **[AXorcist](https://github.com/steipete/AXorcist)** - Swift wrapper for macOS Accessibility; chainable fuzzy UI queries that obey
+- **[Tachikoma](https://github.com/steipete/Tachikoma)** - One interface to every AI model; Swift SDK for providers (tachikoma.build)
+- **[VibeMeter](https://github.com/steipete/vibemeter)** - Track Cursor/OpenAI spend in real time (vibemeter.ai)
+- **[Trimmy](https://github.com/steipete/Trimmy)** - “Paste once, run once” — flattens multi-line shell snippets so they execute
+- **[TauTUI](https://github.com/steipete/TauTUI)** - Swift-native TUI that won’t tear. ⚡
+- **[Commander](https://github.com/steipete/Commander)** - Swifty Commander.js alternative; friendlier than ArgumentParser
+- **[mcporter](https://github.com/steipete/mcporter)** - Call MCPs from TypeScript or package them as a CLI (mcporter.dev)
+- **[sweetlink](https://github.com/steipete/sweetlink)** - Playwright vibes, but in your current tab; close the agent loop
+- **[oracle](https://github.com/steipete/oracle)** - Ask GPT‑5 Pro with repo context when you’re stuck
+- **[tmuxwatch](https://github.com/steipete/tmuxwatch)** - Lightweight TUI to watch tmux sessions
+- **[agent-rules](https://github.com/steipete/agent-rules)** - Shared rules/knowledge for coding with agents
+- **[llm.codes](https://github.com/amantus-ai/llm-codes)** - Transform JavaScript-heavy docs into clean Markdown (llm.codes)
+- **[Stats Store](https://github.com/steipete/stats-store)** - Fast, privacy-first analytics for Sparkle (stats.store)
+- **[Demark](https://github.com/steipete/demark)** - HTML in, pristine Markdown out—blink-fast converter (demark.md)
 ### Legacy Work
 - **[CodeLooper](https://github.com/steipete/CodeLooper)** - macOS menubar app for Cursor workflow monitoring and automation
 - **[InterposeKit](https://github.com/steipete/InterposeKit)** - Modern Swift method swizzling
