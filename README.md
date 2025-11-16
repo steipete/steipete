@@ -62,11 +62,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code is My Computer](https://steipete.me/posts/2025/claude-code-is-my-computer)
-- [VibeTunnel: Turn Any Browser Into Your Mac Terminal](https://steipete.me/posts/2025/vibetunnel)
-- [Slot Machines for Programmers: How Peter Builds Apps 20x Faster with AI](https://steipete.me/posts/2025/when-ai-meets-madness-peters-16-hour-days)
-- [Stop Overthinking AI Subscriptions](https://steipete.me/posts/2025/stop-overthinking-ai-subscriptions)
-- [Finding My Spark Again](https://steipete.me/posts/2025/finding-my-spark-again)
+- [Claude Code Anonymous](https://steipete.me/posts/2025/claude-code-anonymous)
+- [Live Coding Session: Building Arena](https://steipete.me/posts/2025/live-coding-session-building-arena)
+- [Peekaboo 2.0 – Free the CLI from its MCP shackles](https://steipete.me/posts/2025/peekaboo-2-freeing-the-cli-from-its-mcp-shackles)
+- [My AI Workflow for Understanding Any Codebase](https://steipete.me/posts/2025/understanding-codebases-with-ai-gemini-workflow)
+- [VibeTunnel: Turn Any Browser into Your Mac's Terminal](https://steipete.me/posts/2025/vibetunnel-turn-any-browser-into-your-mac-terminal)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
