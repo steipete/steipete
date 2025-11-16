@@ -25,7 +25,6 @@
 - **[Claude Code MCP](https://github.com/steipete/claude-code-mcp)** - Claude Code as a one-shot MCP server: an agent inside your agent
 - **[AXorcist](https://github.com/steipete/AXorcist)** - Swift wrapper for macOS Accessibility; chainable fuzzy UI queries that obey
 - **[Tachikoma](https://github.com/steipete/Tachikoma)** - One interface to every AI model; Swift SDK for providers (tachikoma.build)
-- **[VibeMeter](https://github.com/steipete/vibemeter)** - Track Cursor/OpenAI spend in real time (vibemeter.ai)
 - **[Trimmy](https://github.com/steipete/Trimmy)** - “Paste once, run once” — flattens multi-line shell snippets so they execute
 - **[TauTUI](https://github.com/steipete/TauTUI)** - Swift-native TUI that won’t tear. ⚡
 - **[Commander](https://github.com/steipete/Commander)** - Swifty Commander.js alternative; friendlier than ArgumentParser
@@ -46,6 +45,7 @@
 - **[Conduit MCP](https://github.com/steipete/conduit-mcp)** - Advanced file manipulation for faster refactoring
 - **[XC Sentinel](https://github.com/steipete/xcsentinel)** - Intelligent Xcode automation with incremental builds and AI-friendly output
 - **[Matcha](https://github.com/steipete/Matcha)** - Swift port of Bubble Tea TUI framework
+- **[VibeMeter](https://github.com/steipete/vibemeter)** - Archived: AI cost tracker for Cursor/OpenAI (vibemeter.ai)
 
 
 ## GitHub Activity
