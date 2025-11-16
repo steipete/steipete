@@ -18,23 +18,23 @@
 
 ## Current Projects
 
-- **[Trimmy](https://github.com/steipete/Trimmy)** - Flatten multi-line shell snippets so they paste and run once
-- **[VibeMeter](https://github.com/steipete/vibemeter)** - Monitor AI/cloud costs in real-time
-- **[Tachikoma](https://github.com/steipete/Tachikoma)** - Swift testing and automation framework
-- **[TauTUI](https://github.com/steipete/TauTUI)** - Swift port of the lightweight pi-tui terminal UI
 - **[Peekaboo](https://github.com/steipete/Peekaboo)** - Lightning-fast macOS screenshots and GUI automation for AI agents
-- **[llm.codes](https://github.com/amantus-ai/llm-codes)** - Convert JavaScript-heavy docs into AI-readable format
-- **[oracle](https://github.com/steipete/oracle)** - Ask the oracle (GPT-5 Pro) with custom context and files
-- **[Commander](https://github.com/steipete/Commander)** - Swifty take on Commander.js; alternative to Swift ArgumentParser
-- **[AXorcist](https://github.com/steipete/AXorcist)** - Accessibility framework for macOS automation
-- **[mcporter](https://github.com/steipete/mcporter)** - Call MCPs via TypeScript or package them as a CLI
 - **[Poltergeist](https://github.com/steipete/poltergeist)** - Cross-platform automation library (published to npm)
-- **[tmuxwatch](https://github.com/steipete/tmuxwatch)** - Simple TUI to watch tmux sessions
-- **[agent-rules](https://github.com/steipete/agent-rules)** - Pre-converted Markdown documentation repository
-- **[Claude Code MCP](https://github.com/steipete/claude-code-mcp)** - Integrate Claude Code into Cursor
 - **[VibeTunnel](https://github.com/amantus-ai/vibetunnel)** - Turn any browser into your Mac terminal (24h hackathon winner)
 - **[macOS Automator MCP](https://github.com/steipete/macos-automator-mcp)** - Run AppleScript/JXA on macOS
+- **[Claude Code MCP](https://github.com/steipete/claude-code-mcp)** - Integrate Claude Code into Cursor
+- **[AXorcist](https://github.com/steipete/AXorcist)** - Accessibility framework for macOS automation
+- **[Tachikoma](https://github.com/steipete/Tachikoma)** - Swift testing and automation framework
+- **[VibeMeter](https://github.com/steipete/vibemeter)** - Monitor AI/cloud costs in real-time
+- **[Trimmy](https://github.com/steipete/Trimmy)** - Flatten multi-line shell snippets so they paste and run once
+- **[TauTUI](https://github.com/steipete/TauTUI)** - Swift port of the lightweight pi-tui terminal UI
+- **[Commander](https://github.com/steipete/Commander)** - Swifty take on Commander.js; alternative to Swift ArgumentParser
+- **[mcporter](https://github.com/steipete/mcporter)** - Call MCPs via TypeScript or package them as a CLI
 - **[sweetlink](https://github.com/steipete/sweetlink)** - Connect your agent to your web app; like Playwright but uses your current tab
+- **[oracle](https://github.com/steipete/oracle)** - Ask the oracle (GPT-5 Pro) with custom context and files
+- **[tmuxwatch](https://github.com/steipete/tmuxwatch)** - Simple TUI to watch tmux sessions
+- **[agent-rules](https://github.com/steipete/agent-rules)** - Pre-converted Markdown documentation repository
+- **[llm.codes](https://github.com/amantus-ai/llm-codes)** - Convert JavaScript-heavy docs into AI-readable format
 - **[Stats Store](https://github.com/steipete/stats-store)** - Privacy-first analytics for Sparkle
 - **[Demark](https://github.com/steipete/demark)** - HTML to Markdown conversion in Swift
 ### Legacy Work
