@@ -35,10 +35,6 @@
 - **[sweetlink](https://github.com/steipete/sweetlink)** - Connect your agent to your web app; like Playwright but uses your current tab
 - **[Stats Store](https://github.com/steipete/stats-store)** - Privacy-first analytics for Sparkle
 - **[Demark](https://github.com/steipete/demark)** - HTML to Markdown conversion in Swift
-
-### Work-in-Progress
-- Always iterating on the projects above; more experiments coming soon.
-
 ### Legacy Work
 - **[CodeLooper](https://github.com/steipete/CodeLooper)** - macOS menubar app for Cursor workflow monitoring and automation
 - **[InterposeKit](https://github.com/steipete/InterposeKit)** - Modern Swift method swizzling
