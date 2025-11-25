@@ -38,7 +38,7 @@
 - 👀 **[tmuxwatch](https://github.com/steipete/tmuxwatch)** - Lightweight TUI to watch tmux sessions
 - 📜 **[agent-rules](https://github.com/steipete/agent-rules)** - Shared rules/knowledge for coding with agents
 - 🎨 **[Markdansi](https://github.com/steipete/Markdansi)** - Wraps, colors, links—no baggage.
-- 📖 **[llm.codes](https://github.com/amantus-ai/llm-codes)** - Transform JavaScript-heavy docs into clean Markdown (llm.codes)
+- 📖 **[llm.codes](https://github.com/amantus-ai/llm-codes)** - Transform developer documentation for AI agents
 - 📊 **[Stats Store](https://github.com/steipete/stats-store)** - Fast, privacy-first analytics for Sparkle (stats.store)
 - 🧽 **[Demark](https://github.com/steipete/demark)** - HTML in, pristine Markdown out—blink-fast converter (demark.md)
 - 🍺 **[homebrew-tap](https://github.com/steipete/homebrew-tap)** - Brew tap for shipping my CLI tools fast
