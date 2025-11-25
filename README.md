@@ -36,7 +36,7 @@
 - 🍭 **[sweetlink](https://github.com/steipete/sweetlink)** - Playwright vibes, but in your current tab; close the agent loop
 - 🧿 **[oracle](https://github.com/steipete/oracle)** - Ask GPT‑5 Pro with repo context when you’re stuck
 - 👀 **[tmuxwatch](https://github.com/steipete/tmuxwatch)** - Lightweight TUI to watch tmux sessions
-- **[agent-rules](https://github.com/steipete/agent-rules)** - Shared rules/knowledge for coding with agents
+- 📜 **[agent-rules](https://github.com/steipete/agent-rules)** - Shared rules/knowledge for coding with agents
 - 🎨 **[Markdansi](https://github.com/steipete/Markdansi)** - Dependency-light Markdown→ANSI renderer/CLI for Node 22+ with wrapping and OSC-8 links
 - **[llm.codes](https://github.com/amantus-ai/llm-codes)** - Transform JavaScript-heavy docs into clean Markdown (llm.codes)
 - **[Stats Store](https://github.com/steipete/stats-store)** - Fast, privacy-first analytics for Sparkle (stats.store)
