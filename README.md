@@ -19,28 +19,28 @@
 
 ## Current Projects
 
-- **[RepoBar](https://github.com/steipete/RepoBar)** - macOS menu bar app for GitHub repo health—CI, PRs, releases, traffic, and a commit heatmap at a glance
-- **[warelay](https://github.com/steipete/warelay)** - Send, receive, and auto-reply on WhatsApp via Twilio or QR-linked WhatsApp Web; webhook setup in one command
-- **[Peekaboo](https://github.com/steipete/Peekaboo)** - macOS CLI + MCP server for screenshots and VQA that lets agents see your screen
+- 🚦 **[RepoBar](https://github.com/steipete/RepoBar)** - macOS menu bar app for GitHub repo health—CI, PRs, releases, traffic, and a commit heatmap at a glance
+- 📡 **[warelay](https://github.com/steipete/warelay)** - Send, receive, and auto-reply on WhatsApp via Twilio or QR-linked WhatsApp Web; webhook setup in one command
+- 🚀 **[Peekaboo](https://github.com/steipete/Peekaboo)** - macOS CLI + MCP server for screenshots and VQA that lets agents see your screen
 - **[Poltergeist](https://github.com/steipete/poltergeist)** - The ghost that keeps your builds fresh—universal hot reload & file watcher
 - **[VibeTunnel](https://github.com/amantus-ai/vibetunnel)** - Turn any browser into your terminal; command agents from the road (vt.sh)
-- **[macOS Automator MCP](https://github.com/steipete/macos-automator-mcp)** - AppleScript/JXA MCP server to drive macOS apps
+- 🤖 **[macOS Automator MCP](https://github.com/steipete/macos-automator-mcp)** - AppleScript/JXA MCP server to drive macOS apps
 - **[Claude Code MCP](https://github.com/steipete/claude-code-mcp)** - Claude Code as a one-shot MCP server: an agent inside your agent
-- **[AXorcist](https://github.com/steipete/AXorcist)** - Swift wrapper for macOS Accessibility; chainable fuzzy UI queries that obey
+- 🧙‍♂️ **[AXorcist](https://github.com/steipete/AXorcist)** - Swift wrapper for macOS Accessibility; chainable fuzzy UI queries that obey
 - **[Tachikoma](https://github.com/steipete/Tachikoma)** - One interface to every AI model; Swift SDK for providers (tachikoma.build)
-- **[CodexBar](https://github.com/steipete/CodexBar)** - macOS 15+ menu bar app that shows your remaining Codex token windows from local CLI logs
-- **[Trimmy](https://github.com/steipete/Trimmy)** - “Paste once, run once” — flattens multi-line shell snippets so they execute
-- **[TauTUI](https://github.com/steipete/TauTUI)** - Swift-native TUI that won’t tear. ⚡
+- 🟦🟩 **[CodexBar](https://github.com/steipete/CodexBar)** - macOS 15+ menu bar app that shows your remaining Codex token windows from local CLI logs
+- ✂️ **[Trimmy](https://github.com/steipete/Trimmy)** - “Paste once, run once” — flattens multi-line shell snippets so they execute
+- ⚡ **[TauTUI](https://github.com/steipete/TauTUI)** - Swift-native TUI that won’t tear
 - **[Commander](https://github.com/steipete/Commander)** - Swifty Commander.js alternative; friendlier than ArgumentParser
-- **[mcporter](https://github.com/steipete/mcporter)** - Call MCPs from TypeScript or package them as a CLI (mcporter.dev)
-- **[sweetlink](https://github.com/steipete/sweetlink)** - Playwright vibes, but in your current tab; close the agent loop
-- **[oracle](https://github.com/steipete/oracle)** - Ask GPT‑5 Pro with repo context when you’re stuck
+- 🧳 **[mcporter](https://github.com/steipete/mcporter)** - Call MCPs from TypeScript or package them as a CLI (mcporter.dev)
+- 🍭 **[sweetlink](https://github.com/steipete/sweetlink)** - Playwright vibes, but in your current tab; close the agent loop
+- 🧿 **[oracle](https://github.com/steipete/oracle)** - Ask GPT‑5 Pro with repo context when you’re stuck
 - **[tmuxwatch](https://github.com/steipete/tmuxwatch)** - Lightweight TUI to watch tmux sessions
 - **[agent-rules](https://github.com/steipete/agent-rules)** - Shared rules/knowledge for coding with agents
-- **[Markdansi](https://github.com/steipete/Markdansi)** - Dependency-light Markdown→ANSI renderer/CLI for Node 22+ with wrapping and OSC-8 links
+- 🎨 **[Markdansi](https://github.com/steipete/Markdansi)** - Dependency-light Markdown→ANSI renderer/CLI for Node 22+ with wrapping and OSC-8 links
 - **[llm.codes](https://github.com/amantus-ai/llm-codes)** - Transform JavaScript-heavy docs into clean Markdown (llm.codes)
 - **[Stats Store](https://github.com/steipete/stats-store)** - Fast, privacy-first analytics for Sparkle (stats.store)
-- **[Demark](https://github.com/steipete/demark)** - HTML in, pristine Markdown out—blink-fast converter (demark.md)
+- ⚡ **[Demark](https://github.com/steipete/demark)** - HTML in, pristine Markdown out—blink-fast converter (demark.md)
 - **[homebrew-tap](https://github.com/steipete/homebrew-tap)** - Brew tap for shipping my CLI tools fast
 ### Legacy Work
 - **[CodeLooper](https://github.com/steipete/CodeLooper)** - macOS menubar app for Cursor workflow monitoring and automation
