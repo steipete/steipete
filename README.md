@@ -50,7 +50,7 @@
 - 🤖 **[Terminator MCP](https://github.com/steipete/Terminator)** - Manage terminals outside the loop for better stability
 - 🪢 **[Conduit MCP](https://github.com/steipete/conduit-mcp)** - Advanced file manipulation for faster refactoring
 - 🛡️ **[XC Sentinel](https://github.com/steipete/xcsentinel)** - Intelligent Xcode automation with incremental builds and AI-friendly output
-- **[Matcha](https://github.com/steipete/Matcha)** - Swift port of Bubble Tea TUI framework
+- 🍵 **[Matcha](https://github.com/steipete/Matcha)** - Swift port of Bubble Tea TUI framework
 - **[VibeMeter](https://github.com/steipete/vibemeter)** - Archived: AI cost tracker for Cursor/OpenAI (vibemeter.ai)
 
 
