@@ -19,8 +19,8 @@
 
 ## Current Projects
 
-- 🚦 **[RepoBar](https://github.com/steipete/RepoBar)** - macOS menu bar app for GitHub repo health—CI, PRs, releases, traffic, and a commit heatmap at a glance
-- 📡 **[warelay](https://github.com/steipete/warelay)** - Send, receive, and auto-reply on WhatsApp via Twilio or QR-linked WhatsApp Web; webhook setup in one command
+- 🚦 **[RepoBar](https://github.com/steipete/RepoBar)** - CI, PRs, releases—at a glance
+- 📡 **[warelay](https://github.com/steipete/warelay)** - Send, receive, and auto-reply on WhatsApp—Twilio-backed or QR-linked.
 - 🚀 **[Peekaboo](https://github.com/steipete/Peekaboo)** - macOS CLI + MCP server for screenshots and VQA that lets agents see your screen
 - 👻 **[Poltergeist](https://github.com/steipete/poltergeist)** - The ghost that keeps your builds fresh—universal hot reload & file watcher
 - 🚇 **[VibeTunnel](https://github.com/amantus-ai/vibetunnel)** - Turn any browser into your terminal; command agents from the road (vt.sh)
@@ -28,7 +28,7 @@
 - 🧑‍💻 **[Claude Code MCP](https://github.com/steipete/claude-code-mcp)** - Claude Code as a one-shot MCP server: an agent inside your agent
 - 🧙‍♂️ **[AXorcist](https://github.com/steipete/AXorcist)** - Swift wrapper for macOS Accessibility; chainable fuzzy UI queries that obey
 - 🕸️ **[Tachikoma](https://github.com/steipete/Tachikoma)** - One interface to every AI model; Swift SDK for providers (tachikoma.build)
-- 🎚️ **[CodexBar](https://github.com/steipete/CodexBar)** - macOS 15+ menu bar app that shows your remaining Codex token windows from local CLI logs
+- 🎚️ **[CodexBar](https://github.com/steipete/CodexBar)** - May your tokens never run out—keep agent limits in view.
 - ✂️ **[Trimmy](https://github.com/steipete/Trimmy)** - “Paste once, run once” — flattens multi-line shell snippets so they execute
 - 🖥️ **[TauTUI](https://github.com/steipete/TauTUI)** - Swift-native TUI that won’t tear
 - 🎛️ **[Commander](https://github.com/steipete/Commander)** - Swifty Commander.js alternative; friendlier than ArgumentParser
