@@ -30,7 +30,7 @@
 - 🕸️ **[Tachikoma](https://github.com/steipete/Tachikoma)** - One interface to every AI model; Swift SDK for providers (tachikoma.build)
 - 🟦🟩 **[CodexBar](https://github.com/steipete/CodexBar)** - macOS 15+ menu bar app that shows your remaining Codex token windows from local CLI logs
 - ✂️ **[Trimmy](https://github.com/steipete/Trimmy)** - “Paste once, run once” — flattens multi-line shell snippets so they execute
-- ⚡ **[TauTUI](https://github.com/steipete/TauTUI)** - Swift-native TUI that won’t tear
+- 🖥️ **[TauTUI](https://github.com/steipete/TauTUI)** - Swift-native TUI that won’t tear
 - 🎛️ **[Commander](https://github.com/steipete/Commander)** - Swifty Commander.js alternative; friendlier than ArgumentParser
 - 🧳 **[mcporter](https://github.com/steipete/mcporter)** - Call MCPs from TypeScript or package them as a CLI (mcporter.dev)
 - 🍭 **[sweetlink](https://github.com/steipete/sweetlink)** - Playwright vibes, but in your current tab; close the agent loop
