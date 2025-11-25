@@ -28,7 +28,7 @@
 - 🧑‍💻 **[Claude Code MCP](https://github.com/steipete/claude-code-mcp)** - Claude Code as a one-shot MCP server: an agent inside your agent
 - 🧙‍♂️ **[AXorcist](https://github.com/steipete/AXorcist)** - Swift wrapper for macOS Accessibility; chainable fuzzy UI queries that obey
 - 🕸️ **[Tachikoma](https://github.com/steipete/Tachikoma)** - One interface to every AI model; Swift SDK for providers (tachikoma.build)
-- 🟦🟩 **[CodexBar](https://github.com/steipete/CodexBar)** - macOS 15+ menu bar app that shows your remaining Codex token windows from local CLI logs
+- 🎚️ **[CodexBar](https://github.com/steipete/CodexBar)** - macOS 15+ menu bar app that shows your remaining Codex token windows from local CLI logs
 - ✂️ **[Trimmy](https://github.com/steipete/Trimmy)** - “Paste once, run once” — flattens multi-line shell snippets so they execute
 - 🖥️ **[TauTUI](https://github.com/steipete/TauTUI)** - Swift-native TUI that won’t tear
 - 🎛️ **[Commander](https://github.com/steipete/Commander)** - Swifty Commander.js alternative; friendlier than ArgumentParser
