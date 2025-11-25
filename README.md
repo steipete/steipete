@@ -19,6 +19,8 @@
 
 ## Current Projects
 
+- **[RepoBar](https://github.com/steipete/RepoBar)** - macOS menu bar app for GitHub repo health—CI, PRs, releases, traffic, and a commit heatmap at a glance
+- **[warelay](https://github.com/steipete/warelay)** - Send, receive, and auto-reply on WhatsApp via Twilio or QR-linked WhatsApp Web; webhook setup in one command
 - **[Peekaboo](https://github.com/steipete/Peekaboo)** - macOS CLI + MCP server for screenshots and VQA that lets agents see your screen
 - **[Poltergeist](https://github.com/steipete/poltergeist)** - The ghost that keeps your builds fresh—universal hot reload & file watcher
 - **[VibeTunnel](https://github.com/amantus-ai/vibetunnel)** - Turn any browser into your terminal; command agents from the road (vt.sh)
