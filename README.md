@@ -25,7 +25,7 @@
 - 👻 **[Poltergeist](https://github.com/steipete/poltergeist)** - The ghost that keeps your builds fresh—universal hot reload & file watcher
 - 🚇 **[VibeTunnel](https://github.com/amantus-ai/vibetunnel)** - Turn any browser into your terminal; command agents from the road (vt.sh)
 - 🤖 **[macOS Automator MCP](https://github.com/steipete/macos-automator-mcp)** - AppleScript/JXA MCP server to drive macOS apps
-- 🤖 **[Claude Code MCP](https://github.com/steipete/claude-code-mcp)** - Claude Code as a one-shot MCP server: an agent inside your agent
+- 🧑‍💻 **[Claude Code MCP](https://github.com/steipete/claude-code-mcp)** - Claude Code as a one-shot MCP server: an agent inside your agent
 - 🧙‍♂️ **[AXorcist](https://github.com/steipete/AXorcist)** - Swift wrapper for macOS Accessibility; chainable fuzzy UI queries that obey
 - 🕸️ **[Tachikoma](https://github.com/steipete/Tachikoma)** - One interface to every AI model; Swift SDK for providers (tachikoma.build)
 - 🟦🟩 **[CodexBar](https://github.com/steipete/CodexBar)** - macOS 15+ menu bar app that shows your remaining Codex token windows from local CLI logs
@@ -40,14 +40,14 @@
 - 🎨 **[Markdansi](https://github.com/steipete/Markdansi)** - Dependency-light Markdown→ANSI renderer/CLI for Node 22+ with wrapping and OSC-8 links
 - 📖 **[llm.codes](https://github.com/amantus-ai/llm-codes)** - Transform JavaScript-heavy docs into clean Markdown (llm.codes)
 - 📊 **[Stats Store](https://github.com/steipete/stats-store)** - Fast, privacy-first analytics for Sparkle (stats.store)
-- ⚡ **[Demark](https://github.com/steipete/demark)** - HTML in, pristine Markdown out—blink-fast converter (demark.md)
+- 🧽 **[Demark](https://github.com/steipete/demark)** - HTML in, pristine Markdown out—blink-fast converter (demark.md)
 - 🍺 **[homebrew-tap](https://github.com/steipete/homebrew-tap)** - Brew tap for shipping my CLI tools fast
 ### Legacy Work
 - 🔄 **[CodeLooper](https://github.com/steipete/CodeLooper)** - macOS menubar app for Cursor workflow monitoring and automation
 - 🧩 **[InterposeKit](https://github.com/steipete/InterposeKit)** - Modern Swift method swizzling
 - 🪝 **[Aspects](https://github.com/steipete/Aspects)** - AOP for Objective-C (10k+ stars)
 - 📄 **[PSPDFKit](https://pspdfkit.com)** - Industry-leading PDF SDK ([exited 2021](https://techcrunch.com/2021/10/01/pspdfkit-raises-116m-its-first-outside-money-now-nearly-1b-people-use-apps-powered-by-its-collaboration-signing-and-markup-tools/))
-- 🤖 **[Terminator MCP](https://github.com/steipete/Terminator)** - Manage terminals outside the loop for better stability
+- 🛑 **[Terminator MCP](https://github.com/steipete/Terminator)** - Manage terminals outside the loop for better stability
 - 🪢 **[Conduit MCP](https://github.com/steipete/conduit-mcp)** - Advanced file manipulation for faster refactoring
 - 🛡️ **[XC Sentinel](https://github.com/steipete/xcsentinel)** - Intelligent Xcode automation with incremental builds and AI-friendly output
 - 🍵 **[Matcha](https://github.com/steipete/Matcha)** - Swift port of Bubble Tea TUI framework
