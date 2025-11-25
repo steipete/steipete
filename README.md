@@ -24,7 +24,7 @@
 - 🚀 **[Peekaboo](https://github.com/steipete/Peekaboo)** - Lightning-fast macOS screenshots & GUI automation (MCP + CLI)
 - 👻 **[Poltergeist](https://github.com/steipete/poltergeist)** - The ghost that keeps your builds fresh—universal hot reload & file watcher
 - 🚇 **[VibeTunnel](https://github.com/amantus-ai/vibetunnel)** - Turn any browser into your terminal; command agents from the road (vt.sh)
-- 🤖 **[macOS Automator MCP](https://github.com/steipete/macos-automator-mcp)** - AppleScript/JXA MCP server to drive macOS apps
+- 🤖 **[macOS Automator MCP](https://github.com/steipete/macos-automator-mcp)** - Your Friendly Neighborhood RoboScripter™
 - 🧑‍💻 **[Claude Code MCP](https://github.com/steipete/claude-code-mcp)** - Claude Code as a one-shot MCP server: an agent inside your agent
 - 🧙‍♂️ **[AXorcist](https://github.com/steipete/AXorcist)** - Swift wrapper for macOS Accessibility; chainable fuzzy UI queries that obey
 - 🕸️ **[Tachikoma](https://github.com/steipete/Tachikoma)** - One interface to every AI model; Swift SDK for providers (tachikoma.build)
