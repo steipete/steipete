@@ -21,7 +21,7 @@
 
 - 🚦 **[RepoBar](https://github.com/steipete/RepoBar)** - CI, PRs, releases—at a glance
 - 📡 **[warelay](https://github.com/steipete/warelay)** - Send, receive, and auto-reply on WhatsApp—Twilio-backed or QR-linked.
-- 🚀 **[Peekaboo](https://github.com/steipete/Peekaboo)** - macOS CLI + MCP server for screenshots and VQA that lets agents see your screen
+- 🚀 **[Peekaboo](https://github.com/steipete/Peekaboo)** - Lightning-fast macOS screenshots & GUI automation (MCP + CLI)
 - 👻 **[Poltergeist](https://github.com/steipete/poltergeist)** - The ghost that keeps your builds fresh—universal hot reload & file watcher
 - 🚇 **[VibeTunnel](https://github.com/amantus-ai/vibetunnel)** - Turn any browser into your terminal; command agents from the road (vt.sh)
 - 🤖 **[macOS Automator MCP](https://github.com/steipete/macos-automator-mcp)** - AppleScript/JXA MCP server to drive macOS apps
