@@ -48,7 +48,7 @@
 - 🪝 **[Aspects](https://github.com/steipete/Aspects)** - AOP for Objective-C (10k+ stars)
 - 📄 **[PSPDFKit](https://pspdfkit.com)** - Industry-leading PDF SDK ([exited 2021](https://techcrunch.com/2021/10/01/pspdfkit-raises-116m-its-first-outside-money-now-nearly-1b-people-use-apps-powered-by-its-collaboration-signing-and-markup-tools/))
 - 🛑 **[Terminator MCP](https://github.com/steipete/Terminator)** - I'll be back... with your terminal output!
-- 🪢 **[Conduit MCP](https://github.com/steipete/conduit-mcp)** - Advanced file manipulation for faster refactoring
+- 🪢 **[Conduit MCP](https://github.com/steipete/conduit-mcp)** - Purr-fect MCP server for feline-fast file ops, web prowling, and data hunting
 - 🛡️ **[XC Sentinel](https://github.com/steipete/xcsentinel)** - Intelligent Xcode automation with incremental builds and AI-friendly output
 - 🍵 **[Matcha](https://github.com/steipete/Matcha)** - Swift port of Bubble Tea TUI framework
 - 🌡️ **[VibeMeter](https://github.com/steipete/vibemeter)** - Archived: AI cost tracker for Cursor/OpenAI (vibemeter.ai)
