@@ -33,7 +33,7 @@
 - 🖥️ **[TauTUI](https://github.com/steipete/TauTUI)** - Swift-native TUI that won’t tear
 - 🎛️ **[Commander](https://github.com/steipete/Commander)** - Swift-first parsing, zero forks
 - 🧳 **[mcporter](https://github.com/steipete/mcporter)** - Call MCPs from TypeScript or package them as a CLI (mcporter.dev)
-- 🍭 **[sweetlink](https://github.com/steipete/sweetlink)** - Playwright vibes, but in your current tab; close the agent loop
+- 🍭 **[sweetlink](https://github.com/steipete/sweetlink)** - Playwright vibes in your current tab; close the agent loop
 - 🧿 **[oracle](https://github.com/steipete/oracle)** - Ask GPT‑5 Pro with repo context when you’re stuck
 - 👀 **[tmuxwatch](https://github.com/steipete/tmuxwatch)** - Lightweight TUI to watch tmux sessions
 - 📜 **[agent-rules](https://github.com/steipete/agent-rules)** - Shared rules/knowledge for coding with agents
