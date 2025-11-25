@@ -26,7 +26,7 @@
 - 🚇 **[VibeTunnel](https://github.com/amantus-ai/vibetunnel)** - Turn any browser into your terminal; command agents from the road (vt.sh)
 - 🤖 **[macOS Automator MCP](https://github.com/steipete/macos-automator-mcp)** - Your Friendly Neighborhood RoboScripter™
 - 🧑‍💻 **[Claude Code MCP](https://github.com/steipete/claude-code-mcp)** - One-shot MCP server for Claude Code (an agent inside your agent)
-- 🧙‍♂️ **[AXorcist](https://github.com/steipete/AXorcist)** - Swift wrapper for macOS Accessibility; chainable fuzzy UI queries that obey
+- 🧙‍♂️ **[AXorcist](https://github.com/steipete/AXorcist)** - The power of Swift compels your UI to obey!
 - 🕸️ **[Tachikoma](https://github.com/steipete/Tachikoma)** - One interface to every AI model; Swift SDK for providers (tachikoma.build)
 - 🎚️ **[CodexBar](https://github.com/steipete/CodexBar)** - May your tokens never run out—keep agent limits in view.
 - ✂️ **[Trimmy](https://github.com/steipete/Trimmy)** - “Paste once, run once” — flattens multi-line shell snippets so they execute
