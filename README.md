@@ -43,6 +43,7 @@
 - 📖 **[llm.codes](https://github.com/amantus-ai/llm-codes)** - Transform developer documentation for AI agents
 - 📊 **[Stats Store](https://github.com/steipete/stats-store)** - Fast, privacy-first analytics for Sparkle (stats.store)
 - 🧽 **[Demark](https://github.com/steipete/demark)** - Mark My Words, HTML to Markdown!
+- 🛏️ **[eightctl](https://github.com/steipete/eightctl)** - Control your sleep, from the terminal
 - 🍺 **[homebrew-tap](https://github.com/steipete/homebrew-tap)** - Brew tap for shipping my CLI tools fast
 ### Legacy Work
 - 🔄 **[CodeLooper](https://github.com/steipete/CodeLooper)** - macOS menubar app for Cursor workflow monitoring and automation
