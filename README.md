@@ -36,6 +36,7 @@
 - 🎛️ **[Commander](https://github.com/steipete/Commander)** - Swift-first parsing, zero forks
 - 🧳 **[mcporter](https://github.com/steipete/mcporter)** - Call MCPs from TypeScript or package them as a CLI
 - 🍭 **[sweetlink](https://github.com/steipete/sweetlink)** - Playwright vibes in your current tab; close the agent loop
+- 🐦 **[bird](https://github.com/steipete/bird)** - Fast X CLI for tweeting, replying, and reading
 - 🧿 **[oracle](https://github.com/steipete/oracle)** - Whispering your tokens to the silicon sage
 - 👀 **[tmuxwatch](https://github.com/steipete/tmuxwatch)** - Lightweight TUI to watch tmux sessions
 - 📜 **[agent-rules](https://github.com/steipete/agent-rules)** - Shared rules/knowledge for coding with agents
