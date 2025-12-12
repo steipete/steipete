@@ -27,6 +27,7 @@
 - 🎙️ **[Brabble](https://github.com/steipete/brabble)** - Wake-word voice daemon for macOS; transcribes locally and fires configurable hooks
 - 🗣️ **[sag](https://github.com/steipete/sag/)** - ElevenLabs speech with mac-style `say` UX; streams to speakers by default
 - 📸 **[camsnap](https://github.com/steipete/camsnap)** - RTSP snapshots, clips, motion CLI (Tapo-friendly)
+- 📮 **[gog](https://github.com/steipete/gogcli)** - Google in your terminal (Gmail, Calendar, Drive, Contacts)
 - 🤖 **[macOS Automator MCP](https://github.com/steipete/macos-automator-mcp)** - Your Friendly Neighborhood RoboScripter™
 - 🧑‍💻 **[Claude Code MCP](https://github.com/steipete/claude-code-mcp)** - One-shot MCP server for Claude Code (an agent inside your agent)
 - 🧙‍♂️ **[AXorcist](https://github.com/steipete/AXorcist)** - The power of Swift compels your UI to obey!
