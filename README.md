@@ -29,6 +29,7 @@
 - 🎙️ **[Brabble](https://github.com/steipete/brabble)** - Wake-word voice daemon for macOS; transcribes locally and fires configurable hooks
 - 🗣️ **[sag](https://github.com/steipete/sag/)** - ElevenLabs speech with mac-style `say` UX; streams to speakers by default
 - 📸 **[camsnap](https://github.com/steipete/camsnap)** - RTSP snapshots, clips, motion CLI (Tapo-friendly)
+- 🛵 **[ordercli](https://github.com/steipete/ordercli)** - Your takeout timeline, in the terminal
 - 🔊 **[sonoscli](https://github.com/steipete/sonoscli)** - Control Sonos speakers: discover, group, queue, play Spotify
 - 🫐 **[blucli](https://github.com/steipete/blucli)** - Play, group, and automate BluOS
 - 📮 **[gog](https://github.com/steipete/gogcli)** - Google in your terminal (Gmail, Calendar, Drive, Contacts)
