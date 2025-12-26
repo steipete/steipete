@@ -32,7 +32,7 @@
 - 🛵 **[ordercli](https://github.com/steipete/ordercli)** - Your takeout timeline, in the terminal
 - 🔊 **[sonoscli](https://github.com/steipete/sonoscli)** - Control Sonos speakers: discover, group, queue, play Spotify
 - 🫐 **[blucli](https://github.com/steipete/blucli)** - Play, group, and automate BluOS
-- 📮 **[gog](https://github.com/steipete/gogcli)** - Google in your terminal (Gmail, Calendar, Drive, Contacts)
+- 🧭 **[go-cli](https://github.com/steipete/gogcli)** - Google in your terminal (`gog`) (Gmail, Calendar, Drive, Contacts, Tasks, Sheets, Docs, Slides, People)
 - 🤖 **[macOS Automator MCP](https://github.com/steipete/macos-automator-mcp)** - Your Friendly Neighborhood RoboScripter™
 - 🧑‍💻 **[Claude Code MCP](https://github.com/steipete/claude-code-mcp)** - One-shot MCP server for Claude Code (an agent inside your agent)
 - 🧙‍♂️ **[AXorcist](https://github.com/steipete/AXorcist)** - The power of Swift compels your UI to obey!
