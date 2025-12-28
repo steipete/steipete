@@ -44,6 +44,8 @@
 - 🖥️ **[TauTUI](https://github.com/steipete/TauTUI)** - Swift-native TUI that won’t tear
 - 🎛️ **[Commander](https://github.com/steipete/Commander)** - Swift-first parsing, zero forks
 - 🧳 **[mcporter](https://github.com/steipete/mcporter)** - Call MCPs from TypeScript or package them as a CLI
+- 🍪 **[Sweet Cookie](https://github.com/steipete/sweet-cookie)** - Inline-first browser cookie extraction—no native addons
+- 🧁 **[SweetCookieKit](https://github.com/steipete/SweetCookieKit)** - Native macOS cookie extraction for Safari, Chromium, and Firefox
 - 🍭 **[sweetlink](https://github.com/steipete/sweetlink)** - Playwright vibes in your current tab; close the agent loop
 - 🐦 **[bird](https://github.com/steipete/bird)** - Fast X CLI for tweeting, replying, and reading
 - 🧿 **[oracle](https://github.com/steipete/oracle)** - Whispering your tokens to the silicon sage
