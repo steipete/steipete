@@ -20,7 +20,7 @@
 ## Current Projects
 
 - 🚦 **[RepoBar](https://github.com/steipete/RepoBar)** - CI, PRs, releases—at a glance
-- 🎞️ **[gifgrep](https://github.com/steipete/gifgrep)** - GIF search for terminals: CLI output + TUI with inline previews
+- 🧲 **[gifgrep](https://github.com/steipete/gifgrep)** - GIF search for terminals: CLI output + TUI with inline previews
 - 👉 **[summarize](https://github.com/steipete/summarize)** - Point at any URL or file. Get the gist.
 - 📡 **[warelay](https://github.com/steipete/warelay)** - Send, receive, and auto-reply on WhatsApp
 - 🗃️ **[wacli](https://github.com/steipete/wacli)** - WhatsApp CLI: sync, search, send
