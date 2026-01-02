@@ -34,6 +34,7 @@
 - 🛵 **[ordercli](https://github.com/steipete/ordercli)** - Your takeout timeline, in the terminal
 - 🔊 **[sonoscli](https://github.com/steipete/sonoscli)** - Control Sonos speakers: discover, group, queue, play Spotify
 - 🫐 **[blucli](https://github.com/steipete/blucli)** - Play, group, and automate BluOS
+- 🎧 **[spogo](https://github.com/steipete/spogo)** - Spotify, but make it terminal
 - 🧭 **[go-cli](https://github.com/steipete/gogcli)** - Google in your terminal (`gog`) (Gmail, Calendar, Drive, Contacts, Tasks, Sheets, Docs, Slides, People)
 - 📍 **[goplaces](https://github.com/steipete/goplaces)** - Google Places API (New) client + CLI
 - 🤖 **[macOS Automator MCP](https://github.com/steipete/macos-automator-mcp)** - Your Friendly Neighborhood RoboScripter™
