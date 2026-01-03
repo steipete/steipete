@@ -47,6 +47,7 @@
 - ✂️ **[Trimmy](https://github.com/steipete/Trimmy)** - “Paste once, run once” — flattens multi-line shell snippets so they execute
 - 🖥️ **[TauTUI](https://github.com/steipete/TauTUI)** - Swift-native TUI that won’t tear
 - 🎛️ **[Commander](https://github.com/steipete/Commander)** - Swift-first parsing, zero forks
+- 📝 **[remindctl](https://github.com/steipete/remindctl)** - Apple Reminders from the terminal
 - 🧳 **[mcporter](https://github.com/steipete/mcporter)** - Call MCPs from TypeScript or package them as a CLI
 - 🍪 **[Sweet Cookie](https://github.com/steipete/sweet-cookie)** - Inline-first browser cookie extraction—no native addons
 - 🧁 **[SweetCookieKit](https://github.com/steipete/SweetCookieKit)** - Native macOS cookie extraction for Safari, Chromium, and Firefox
