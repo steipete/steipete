@@ -24,7 +24,7 @@
 - 👉 **[summarize](https://github.com/steipete/summarize)** - Point at any URL or file. Get the gist.
 - 📡 **[warelay](https://github.com/steipete/warelay)** - Send, receive, and auto-reply on WhatsApp
 - 🗃️ **[wacli](https://github.com/steipete/wacli)** - WhatsApp CLI: sync, search, send
-- 🤖 **[Clawdbot](https://github.com/steipete/clawdbot)** - Agentic gateway: Pi-powered CLI/daemon for WhatsApp, Telegram, Slack, iMessage
+- 🦞 **[Clawdbot](https://github.com/steipete/clawdbot)** - the AI that actually does things
 - 🚀 **[Peekaboo](https://github.com/steipete/Peekaboo)** - Lightning-fast macOS screenshots & GUI automation (MCP + CLI)
 - 👻 **[Poltergeist](https://github.com/steipete/poltergeist)** - The ghost that keeps your builds fresh—universal hot reload & file watcher
 - 🚇 **[VibeTunnel](https://github.com/amantus-ai/vibetunnel)** - Turn any browser into your terminal; command agents from the road (vt.sh)
