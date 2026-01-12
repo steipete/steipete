@@ -20,6 +20,7 @@
 ## Current Projects
 
 - 🦞 **[Clawdbot](https://github.com/steipete/clawdbot)** - the AI that actually does things
+- 🎚️ **[CodexBar](https://github.com/steipete/CodexBar)** - May your tokens never run out—keep agent limits in view.
 - 🚦 **[RepoBar](https://github.com/steipete/RepoBar)** - CI, PRs, releases—at a glance
 - 🧲 **[gifgrep](https://github.com/steipete/gifgrep)** - GIF search for terminals: CLI output + TUI with inline previews
 - 👉 **[summarize](https://github.com/steipete/summarize)** - Point at any URL or file. Get the gist.
