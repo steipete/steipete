@@ -24,7 +24,6 @@
 - 🚦 **[RepoBar](https://github.com/steipete/RepoBar)** - CI, PRs, releases—at a glance
 - 🧲 **[gifgrep](https://github.com/steipete/gifgrep)** - GIF search for terminals: CLI output + TUI with inline previews
 - 👉 **[summarize](https://github.com/steipete/summarize)** - Point at any URL or file. Get the gist.
-- 📡 **[warelay](https://github.com/steipete/warelay)** - Send, receive, and auto-reply on WhatsApp
 - 🗃️ **[wacli](https://github.com/steipete/wacli)** - WhatsApp CLI: sync, search, send
 - 🚀 **[Peekaboo](https://github.com/steipete/Peekaboo)** - Lightning-fast macOS screenshots & GUI automation (MCP + CLI)
 - 👻 **[Poltergeist](https://github.com/steipete/poltergeist)** - The ghost that keeps your builds fresh—universal hot reload & file watcher
