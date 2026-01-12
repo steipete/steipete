@@ -20,24 +20,24 @@
 ## Current Projects
 
 - 🦞 **[Clawdbot](https://github.com/steipete/clawdbot)** - the AI that actually does things
-- 🎚️ **[CodexBar](https://github.com/steipete/CodexBar)** - May your tokens never run out—keep agent limits in view.
-- 🚦 **[RepoBar](https://github.com/steipete/RepoBar)** - CI, PRs, releases—at a glance
-- 🧲 **[gifgrep](https://github.com/steipete/gifgrep)** - GIF search for terminals: CLI output + TUI with inline previews
-- 👉 **[summarize](https://github.com/steipete/summarize)** - Point at any URL or file. Get the gist.
-- 🗃️ **[wacli](https://github.com/steipete/wacli)** - WhatsApp CLI: sync, search, send
-- 🚀 **[Peekaboo](https://github.com/steipete/Peekaboo)** - Lightning-fast macOS screenshots & GUI automation (MCP + CLI)
-- 👻 **[Poltergeist](https://github.com/steipete/poltergeist)** - The ghost that keeps your builds fresh—universal hot reload & file watcher
 - 🚇 **[VibeTunnel](https://github.com/amantus-ai/vibetunnel)** - Turn any browser into your terminal; command agents from the road (vt.sh)
-- 🎙️ **[Brabble](https://github.com/steipete/brabble)** - Wake-word voice daemon for macOS; transcribes locally and fires configurable hooks
-- 🗣️ **[sag](https://github.com/steipete/sag/)** - ElevenLabs speech with mac-style `say` UX; streams to speakers by default
-- 📣 **[ElevenLabsKit](https://github.com/steipete/ElevenLabsKit)** - ElevenLabs voices on tap—SwiftPM-friendly, streaming-native.
-- 📸 **[camsnap](https://github.com/steipete/camsnap)** - RTSP snapshots, clips, motion CLI (Tapo-friendly)
-- 🛵 **[ordercli](https://github.com/steipete/ordercli)** - Your takeout timeline, in the terminal
-- 🔊 **[sonoscli](https://github.com/steipete/sonoscli)** - Control Sonos speakers: discover, group, queue, play Spotify
-- 🫐 **[blucli](https://github.com/steipete/blucli)** - Play, group, and automate BluOS
-- 🎧 **[spogo](https://github.com/steipete/spogo)** - Spotify, but make it terminal
+- 🎚️ **[CodexBar](https://github.com/steipete/CodexBar)** - May your tokens never run out—keep agent limits in view.
+- 🚀 **[Peekaboo](https://github.com/steipete/Peekaboo)** - Lightning-fast macOS screenshots & GUI automation (MCP + CLI)
+- 👉 **[summarize](https://github.com/steipete/summarize)** - Point at any URL or file. Get the gist.
+- 🚦 **[RepoBar](https://github.com/steipete/RepoBar)** - CI, PRs, releases—at a glance
 - 🧭 **[go-cli](https://github.com/steipete/gogcli)** - Google in your terminal (`gog`) (Gmail, Calendar, Drive, Contacts, Tasks, Sheets, Docs, Slides, People)
+- 👻 **[Poltergeist](https://github.com/steipete/poltergeist)** - The ghost that keeps your builds fresh—universal hot reload & file watcher
+- 🗃️ **[wacli](https://github.com/steipete/wacli)** - WhatsApp CLI: sync, search, send
+- 🗣️ **[sag](https://github.com/steipete/sag/)** - ElevenLabs speech with mac-style `say` UX; streams to speakers by default
+- 🎙️ **[Brabble](https://github.com/steipete/brabble)** - Wake-word voice daemon for macOS; transcribes locally and fires configurable hooks
+- 🔊 **[sonoscli](https://github.com/steipete/sonoscli)** - Control Sonos speakers: discover, group, queue, play Spotify
+- 📣 **[ElevenLabsKit](https://github.com/steipete/ElevenLabsKit)** - ElevenLabs voices on tap—SwiftPM-friendly, streaming-native.
 - 📍 **[goplaces](https://github.com/steipete/goplaces)** - Google Places API (New) client + CLI
+- 🧲 **[gifgrep](https://github.com/steipete/gifgrep)** - GIF search for terminals: CLI output + TUI with inline previews
+- 📸 **[camsnap](https://github.com/steipete/camsnap)** - RTSP snapshots, clips, motion CLI (Tapo-friendly)
+- 🎧 **[spogo](https://github.com/steipete/spogo)** - Spotify, but make it terminal
+- 🛵 **[ordercli](https://github.com/steipete/ordercli)** - Your takeout timeline, in the terminal
+- 🫐 **[blucli](https://github.com/steipete/blucli)** - Play, group, and automate BluOS
 - 🤖 **[macOS Automator MCP](https://github.com/steipete/macos-automator-mcp)** - Your Friendly Neighborhood RoboScripter™
 - 🧑‍💻 **[Claude Code MCP](https://github.com/steipete/claude-code-mcp)** - One-shot MCP server for Claude Code (an agent inside your agent)
 - 🧙‍♂️ **[AXorcist](https://github.com/steipete/AXorcist)** - The power of Swift compels your UI to obey!
