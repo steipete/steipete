@@ -78,7 +78,7 @@
 
 ## GitHub Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/steipete)
+![GitHub Activity](https://githubcard.com/steipete.svg?d=-1bh2w63)
 
 ## What I'm Doing
 
