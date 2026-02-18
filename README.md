@@ -52,7 +52,7 @@
 - 🍪 **[Sweet Cookie](https://github.com/steipete/sweet-cookie)** - Inline-first browser cookie extraction—no native addons
 - 🧁 **[SweetCookieKit](https://github.com/steipete/SweetCookieKit)** - Native macOS cookie extraction for Safari, Chromium, and Firefox
 - 🍭 **[sweetlink](https://github.com/steipete/sweetlink)** - Playwright vibes in your current tab; close the agent loop
-- 🐦 **[bird](https://github.com/steipete/bird)** - Fast X CLI for tweeting, replying, and reading
+- 🐦 **[bird](https://github.com/steipete/bird)** - Fast X CLI for tweeting, replying, and reading (had to make it private)
 - 🧿 **[oracle](https://github.com/steipete/oracle)** - Whispering your tokens to the silicon sage
 - 👀 **[tmuxwatch](https://github.com/steipete/tmuxwatch)** - Lightweight TUI to watch tmux sessions
 - 📜 **[agent-rules](https://github.com/steipete/agent-rules)** - Shared rules/knowledge for coding with agents
