@@ -20,6 +20,7 @@
 ## Current Projects
 
 - 🦞 **[OpenClaw](https://openclaw.ai)** - the AI that actually does things
+- 🦀 **[Crabbox](https://github.com/openclaw/crabbox)** - Warm a box, sync the diff, run the suite.
 - 🚇 **[VibeTunnel](https://github.com/amantus-ai/vibetunnel)** - Turn any browser into your terminal; command agents from the road (vt.sh)
 - 🎚️ **[CodexBar](https://github.com/steipete/CodexBar)** - May your tokens never run out—keep agent limits in view.
 - 🚀 **[Peekaboo](https://github.com/steipete/Peekaboo)** - Lightning-fast macOS screenshots & GUI automation (MCP + CLI)
