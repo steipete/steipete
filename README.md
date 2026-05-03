@@ -123,7 +123,7 @@
 
 - Featured in **[The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/software-engineering-with-llms-in-2025)** newsletter
 - International speaker ([See my talks](https://github.com/steipete/speaking))
-- 15k+ GitHub stars across projects
+- 190k+ GitHub stars across projects
 - Bootstrapped PSPDFKit to millions in ARR before exit
 
 ### Media
