@@ -20,12 +20,13 @@
 ## Current Projects
 
 - 🦞 **[OpenClaw](https://openclaw.ai)** - the AI that actually does things
-- 🦀 **[Crabbox](https://github.com/openclaw/crabbox)** - Warm a box, sync the diff, run the suite.
+- 🦀 **[Crabbox](https://crabbox.sh)** - Warm a box, sync the diff, run the suite.
 - 🚇 **[VibeTunnel](https://github.com/amantus-ai/vibetunnel)** - Turn any browser into your terminal; command agents from the road (vt.sh)
 - 🎚️ **[CodexBar](https://github.com/steipete/CodexBar)** - May your tokens never run out—keep agent limits in view.
 - 🚀 **[Peekaboo](https://github.com/steipete/Peekaboo)** - Lightning-fast macOS screenshots & GUI automation (MCP + CLI)
 - 👉 **[summarize](https://github.com/steipete/summarize)** - Point at any URL or file. Get the gist.
 - 🚦 **[RepoBar](https://github.com/steipete/RepoBar)** - CI, PRs, releases—at a glance
+- 🧰 **[gitcrawl](https://gitcrawl.sh)** - Local-first GitHub issue and pull request crawler for maintainer triage
 - 🧭 **[gogcli](https://github.com/steipete/gogcli)** - Google in your terminal (`gog`) (Gmail, Calendar, Drive, Contacts, Tasks, Sheets, Docs, Slides, People)
 - 👻 **[Poltergeist](https://github.com/steipete/poltergeist)** - The ghost that keeps your builds fresh—universal hot reload & file watcher
 - 🗃️ **[wacli](https://github.com/steipete/wacli)** - WhatsApp CLI: sync, search, send
