@@ -30,6 +30,7 @@
 - 👉 **[summarize](https://github.com/steipete/summarize)** - Point at any URL or file. Get the gist.
 - 🚦 **[RepoBar](https://github.com/steipete/RepoBar)** - CI, PRs, releases—at a glance
 - 🧵 **[acpx](https://acpx.sh)** - Headless CLI client for stateful ACP sessions
+- 🛟 **[fs-safe](https://fs-safe.io)** - Race-resistant root-bounded filesystem primitives for Node.js
 - 🧰 **[gitcrawl](https://gitcrawl.sh)** - Local-first GitHub issue and pull request crawler for maintainer triage
 - 🧭 **[gogcli](https://gogcli.sh)** - Google in your terminal (`gog`) (Gmail, Calendar, Drive, Contacts, Tasks, Sheets, Docs, Slides, People)
 - 👻 **[Poltergeist](https://github.com/steipete/poltergeist)** - The ghost that keeps your builds fresh—universal hot reload & file watcher
