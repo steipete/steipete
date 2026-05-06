@@ -29,7 +29,7 @@
 - 🧰 **[gitcrawl](https://gitcrawl.sh)** - Local-first GitHub issue and pull request crawler for maintainer triage
 - 🧭 **[gogcli](https://github.com/steipete/gogcli)** - Google in your terminal (`gog`) (Gmail, Calendar, Drive, Contacts, Tasks, Sheets, Docs, Slides, People)
 - 👻 **[Poltergeist](https://github.com/steipete/poltergeist)** - The ghost that keeps your builds fresh—universal hot reload & file watcher
-- 🗃️ **[wacli](https://github.com/steipete/wacli)** - WhatsApp CLI: sync, search, send
+- 🗃️ **[wacli](https://wacli.sh)** - WhatsApp CLI: sync, search, send
 - 🧾 **[wacrawl](https://github.com/steipete/wacrawl)** - WhatsApp archaeology with encrypted receipts
 - 🪶 **[birdclaw](https://github.com/steipete/birdclaw)** - Twitter archive archaeology with Git-backed memory
 - 🛰️ **[discrawl](https://github.com/steipete/discrawl)** - Mirror Discord into SQLite; search server history locally
