@@ -35,7 +35,7 @@
 - 🧭 **[gogcli](https://gogcli.sh)** - Google in your terminal (`gog`) (Gmail, Calendar, Drive, Contacts, Tasks, Sheets, Docs, Slides, People)
 - 👻 **[Poltergeist](https://github.com/steipete/poltergeist)** - The ghost that keeps your builds fresh—universal hot reload & file watcher
 - 🗃️ **[wacli](https://wacli.sh)** - WhatsApp CLI: sync, search, send
-- 🧾 **[wacrawl](https://github.com/steipete/wacrawl)** - WhatsApp archaeology with encrypted receipts
+- 🧾 **[wacrawl](https://github.com/steipete/wacrawl)** - Read-only WhatsApp Desktop archive and local search
 - 🪶 **[birdclaw](https://birdclaw.sh)** - Twitter archive archaeology with Git-backed memory
 - 🛰️ **[discrawl](https://discrawl.sh)** - Mirror Discord into SQLite; search server history locally
 - 🧵 **[slacrawl](https://github.com/vincentkoc/slacrawl)** - Slack history, clawed into SQLite
