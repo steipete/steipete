@@ -2,6 +2,8 @@
 
 📍 **Vienna ↔ London** | 🤖 **Polyagentmorous builder** | 🚀 **Ex-PSPDFKit Founder**
 
+Now at **OpenAI**, working on agents; stewarding **OpenClaw** as open and independent.
+
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -16,6 +18,16 @@
 > Deep in vibe-coding mode – building AI-powered developer tools at ludicrous speed. After 13+ years shipping native iOS, modern web feels like a breath of fresh air.
 
 🍭 **[sweetistics.com](https://sweetistics.com/)** (closed source) – AI-powered Twitter platform with analytics/ops stack.
+
+## Start Here
+
+- 🦞 **[OpenClaw](https://openclaw.ai)** (370k+ stars) - the AI that actually does things
+- 🎚️ **[CodexBar](https://github.com/steipete/CodexBar)** (11.9k+ stars) - keep agent limits in view
+- 🐾 **[ClawHub](https://clawhub.ai)** (8.5k+ stars) - OpenClaw skill directory
+- 🧭 **[gogcli](https://gogcli.sh)** (7.2k+ stars) - Google in your terminal
+- 👉 **[summarize](https://github.com/steipete/summarize)** (5.8k+ stars) - point at any URL or file, get the gist
+- 📜 **[agent-rules](https://github.com/steipete/agent-rules)** (5.6k+ stars) - shared rules/knowledge for coding with agents
+- 🚀 **[Peekaboo](https://github.com/openclaw/Peekaboo)** (3.4k+ stars) - macOS screenshots & GUI automation for agents
 
 ## Current Projects
 
@@ -108,16 +120,16 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenClaw, OpenAI and the future](https://steipete.me/posts/2026/openclaw/)
+- [Shipping at Inference-Speed](https://steipete.me/posts/2025/shipping-at-inference-speed/)
+- [The Signature Flicker](https://steipete.me/posts/2025/signature-flicker/)
+- [Just Talk To It - the no-bs Way of Agentic Engineering](https://steipete.me/posts/just-talk-to-it/)
 - [Claude Code Anonymous](https://steipete.me/posts/2025/claude-code-anonymous)
-- [Live Coding Session: Building Arena](https://steipete.me/posts/2025/live-coding-session-building-arena)
-- [Peekaboo 2.0 – Free the CLI from its MCP shackles](https://steipete.me/posts/2025/peekaboo-2-freeing-the-cli-from-its-mcp-shackles)
-- [My AI Workflow for Understanding Any Codebase](https://steipete.me/posts/2025/understanding-codebases-with-ai-gemini-workflow)
-- [VibeTunnel: Turn Any Browser into Your Mac's Terminal](https://steipete.me/posts/2025/vibetunnel-turn-any-browser-into-your-mac-terminal)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
 
-[![Twitter](https://img.shields.io/badge/-@steipete-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/steipete)
+[![steipete](https://img.shields.io/badge/-steipete-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/steipete)
 [![Mastodon](https://img.shields.io/badge/-@steipete-6364FF?style=flat-square&logo=mastodon&logoColor=white)](https://mastodon.social/@steipete)
 [![Bluesky](https://img.shields.io/badge/-steipete.me-00A8E8?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/steipete.me)
 [![Blog](https://img.shields.io/badge/-steipete.me-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://steipete.me)
@@ -130,7 +142,7 @@
 
 - Featured in **[The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/software-engineering-with-llms-in-2025)** newsletter
 - International speaker ([See my talks](https://github.com/steipete/speaking))
-- 15k+ GitHub stars across projects
+- 58k+ GitHub stars across personal projects; 400k+ across OpenClaw projects
 - Bootstrapped PSPDFKit to millions in ARR before exit
 
 ### Media
