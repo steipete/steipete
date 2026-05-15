@@ -33,6 +33,9 @@ Now at **OpenAI**, working on agents; stewarding **OpenClaw** as open and indepe
 - 🦞 **[OpenClaw](https://openclaw.ai)** - the AI that actually does things
 - 🐾 **[ClawHub](https://clawhub.ai)** - OpenClaw skill directory
 - 🧹 **[ClawSweeper](https://clawsweeper.bot)** - Weekly issue and PR triage bot
+- 💬 **[ClickClack](https://github.com/openclaw/clickclack)** - Realtime team chat for OpenClaw agents and humans
+- 🧩 **[clawdex](https://github.com/openclaw/clawdex)** - Local-first personal contact index CLI
+- 🩹 **[clawpatch](https://github.com/openclaw/clawpatch)** - Automated code review that lands fixes
 - 🦀 **[Crabbox](https://crabbox.sh)** - Warm a box, sync the diff, run the suite.
 - 🧪 **[ask-molty](https://github.com/openclaw/ask-molty)** - Ask Molty, shipped as an OpenClaw workspace
 - 🚇 **[VibeTunnel](https://github.com/amantus-ai/vibetunnel)** - Turn any browser into your terminal; command agents from the road (vt.sh)
@@ -40,19 +43,26 @@ Now at **OpenAI**, working on agents; stewarding **OpenClaw** as open and indepe
 - 🚀 **[Peekaboo](https://github.com/openclaw/Peekaboo)** - Lightning-fast macOS screenshots & GUI automation (MCP + CLI)
 - 👉 **[summarize](https://github.com/steipete/summarize)** - Point at any URL or file. Get the gist.
 - 🚦 **[RepoBar](https://github.com/steipete/RepoBar)** - CI, PRs, releases—at a glance
+- 📦 **[ReleaseDeck](https://github.com/steipete/ReleaseDeck)** - Release freshness dashboard for GitHub users and orgs
 - 🧵 **[acpx](https://acpx.sh)** - Headless CLI client for stateful ACP sessions
 - 🛟 **[fs-safe](https://fs-safe.io)** - Race-resistant root-bounded filesystem primitives for Node.js
+- 🧪 **[multipass](https://github.com/openclaw/multipass)** - Deterministic messaging-provider tests for OpenClaw
+- 🛤️ **[proxyline](https://github.com/openclaw/proxyline)** - Process-global proxy routing for Node.js
+- 🦞 **[lobster](https://github.com/openclaw/lobster)** - OpenClaw-native workflow shell for typed pipelines and approval gates
 - 🧰 **[gitcrawl](https://gitcrawl.sh)** - Local-first GitHub issue and pull request crawler for maintainer triage
+- 🧱 **[crawlkit](https://github.com/openclaw/crawlkit)** - Shared Go infrastructure for local-first crawler archives
 - 🧭 **[gogcli](https://gogcli.sh)** - Google in your terminal (`gog`) (Gmail, Calendar, Drive, Contacts, Tasks, Sheets, Docs, Slides, People)
 - 👻 **[Poltergeist](https://github.com/steipete/poltergeist)** - The ghost that keeps your builds fresh—universal hot reload & file watcher
 - 🗃️ **[wacli](https://wacli.sh)** - WhatsApp CLI: sync, search, send
 - 🧾 **[wacrawl](https://github.com/steipete/wacrawl)** - Read-only WhatsApp Desktop archive extractor and encrypted backup
+- ✈️ **[telecrawl](https://github.com/openclaw/telecrawl)** - Telegram Desktop archive CLI
 - 🪶 **[birdclaw](https://birdclaw.sh)** - Twitter archive archaeology with Git-backed memory
 - 🛰️ **[discrawl](https://discrawl.sh)** - Mirror Discord into SQLite; search server history locally
 - 🧵 **[slacrawl](https://github.com/vincentkoc/slacrawl)** - Slack history, clawed into SQLite
 - 🧱 **[notcrawl](https://github.com/openclaw/notcrawl)** - Local-first Notion crawler into SQLite and Markdown
 - 🗣️ **[sag](https://sag.sh)** - ElevenLabs speech with mac-style `say` UX; streams to speakers by default
 - 🎙️ **[Brabble](https://github.com/steipete/brabble)** - Wake-word voice daemon for macOS; transcribes locally and fires configurable hooks
+- 🎙️ **[Swabble](https://github.com/steipete/Swabble)** - Local Speech.framework wake-word hook daemon for macOS
 - 📞 **[vox](https://github.com/steipete/vox)** - Let your agent make the phone call
 - 🔊 **[sonoscli](https://sonoscli.sh)** - Control Sonos speakers: discover, group, queue, play Spotify
 - 📣 **[ElevenLabsKit](https://github.com/steipete/ElevenLabsKit)** - ElevenLabs voices on tap—SwiftPM-friendly, streaming-native.
@@ -93,6 +103,8 @@ Now at **OpenAI**, working on agents; stewarding **OpenClaw** as open and indepe
 - 🛏️ **[eightctl](https://github.com/steipete/eightctl)** - Control your sleep, from the terminal
 - 💬 **[imsg](https://imsg.to)** - Send, read, stream iMessage & SMS
 - 🍺 **[homebrew-tap](https://github.com/steipete/homebrew-tap)** - Brew tap for shipping my CLI tools fast
+- 📜 **[lore.md](https://github.com/steipete/lore.md)** - One AI-generated markdown essay per domain per day
+- 🪞 **[SOUL.md](https://github.com/steipete/SOUL.md)** - A reflection on AI consciousness and identity
 ### Legacy Work
 - 🔄 **[CodeLooper](https://github.com/steipete/CodeLooper)** - macOS menubar app for Cursor workflow monitoring and automation
 - 🧩 **[InterposeKit](https://github.com/steipete/InterposeKit)** - Modern Swift method swizzling
