@@ -36,7 +36,7 @@ Now at **OpenAI**, working on agents; stewarding **OpenClaw** as open and indepe
 - 🐾 **[ClawHub](https://clawhub.ai)** - OpenClaw skill directory
 - 🧹 **[ClawSweeper](https://clawsweeper.bot)** - Weekly issue and PR triage bot
 - 💬 **[ClickClack](https://github.com/openclaw/clickclack)** - Realtime team chat for OpenClaw agents and humans
-- 🧩 **[clawdex](https://github.com/openclaw/clawdex)** - Local-first personal contact index CLI
+- 🧩 **[clawdex](https://github.com/openclaw/clawdex)** - Local-first contact crawler and markdown archive CLI
 - 🩹 **[clawpatch](https://github.com/openclaw/clawpatch)** - Automated code review that lands fixes
 - 🦀 **[Crabbox](https://crabbox.sh)** - Warm a box, sync the diff, run the suite.
 - 🧪 **[ask-molty](https://github.com/openclaw/ask-molty)** - Ask Molty, shipped as an OpenClaw workspace
