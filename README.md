@@ -39,6 +39,7 @@ Now at **OpenAI**, working on agents; stewarding **OpenClaw** as open and indepe
 - 🧩 **[clawdex](https://github.com/openclaw/clawdex)** - Local-first contact crawler and markdown archive CLI
 - 🩹 **[clawpatch](https://github.com/openclaw/clawpatch)** - Automated code review that lands fixes
 - 🦀 **[Crabbox](https://crabbox.sh)** - Warm a box, sync the diff, run the suite.
+- 🕹️ **[Crabyard](https://github.com/openclaw/crabyard)** - Mission control for Agent runs
 - 🧪 **[ask-molty](https://github.com/openclaw/ask-molty)** - Ask Molty, shipped as an OpenClaw workspace
 
 ### Agent Runtime & Dev Tools
