@@ -14,10 +14,6 @@ Now at **OpenAI**, working on agents; stewarding **OpenClaw** as open and indepe
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0062D3?style=flat-square&logo=swift&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
-> Deep in vibe-coding mode – building AI-powered developer tools at ludicrous speed. After 13+ years shipping native iOS, modern web feels like a breath of fresh air.
-
-🍭 **[sweetistics.com](https://sweetistics.com/)** (closed source) – AI-powered Twitter platform with analytics/ops stack.
-
 ## Start Here
 
 - 🦞 **[OpenClaw](https://openclaw.ai)** (370k+ stars) - the AI that actually does things
@@ -25,7 +21,7 @@ Now at **OpenAI**, working on agents; stewarding **OpenClaw** as open and indepe
 - 🐾 **[ClawHub](https://clawhub.ai)** (8.5k+ stars) - OpenClaw skill directory
 - 🧭 **[gogcli](https://gogcli.sh)** (7.2k+ stars) - Google in your terminal
 - 👉 **[summarize](https://github.com/steipete/summarize)** (5.8k+ stars) - point at any URL or file, get the gist
-- 📜 **[agent-rules](https://github.com/steipete/agent-rules)** (5.6k+ stars) - shared rules/knowledge for coding with agents
+- 📜 **[agent-scripts](https://github.com/steipete/agent-scripts)** (3k+ stars) - shared rules/knowledge for coding with agents
 - 🚀 **[Peekaboo](https://github.com/openclaw/Peekaboo)** (3.4k+ stars) - macOS screenshots & GUI automation for agents
 
 ## Current Projects
