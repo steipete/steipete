@@ -49,7 +49,6 @@ Now at **OpenAI**, working on agents; stewarding **OpenClaw** as open and indepe
 - 🧿 **[oracle](https://askoracle.dev)** - Whispering your tokens to the silicon sage
 - 🧑‍💻 **[Claude Code MCP](https://github.com/steipete/claude-code-mcp)** - One-shot MCP server for Claude Code (an agent inside your agent)
 - 🧰 **[agent-scripts](https://github.com/steipete/agent-scripts)** - The toolbox my agents reach for first
-- 📜 **[agent-rules](https://github.com/steipete/agent-rules)** - Shared rules/knowledge for coding with agents
 
 ### Local Archives & Crawlers
 
