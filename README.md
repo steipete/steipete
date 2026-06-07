@@ -56,7 +56,7 @@ Now at **OpenAI**, working on agents; stewarding **OpenClaw** as open and indepe
 - 🧱 **[crawlkit](https://github.com/openclaw/crawlkit)** - Shared Go infrastructure for local-first crawler archives
 - 🧭 **[gogcli](https://gogcli.sh)** - Google in your terminal (`gog`) (Gmail, Calendar, Drive, Contacts, Tasks, Sheets, Docs, Slides, People)
 - 🗃️ **[wacli](https://wacli.sh)** - WhatsApp CLI: sync, search, send
-- 🧾 **[wacrawl](https://github.com/steipete/wacrawl)** - Read-only WhatsApp Desktop archive extractor and encrypted backup
+- 🧾 **[wacrawl](https://github.com/openclaw/wacrawl)** - Read-only WhatsApp Desktop archive extractor and encrypted backup
 - ✈️ **[telecrawl](https://github.com/openclaw/telecrawl)** - Telegram Desktop archive CLI
 - 🪶 **[birdclaw](https://birdclaw.sh)** - Twitter archive archaeology with Git-backed memory
 - 🛰️ **[discrawl](https://discrawl.sh)** - Mirror Discord into SQLite; search server history locally
