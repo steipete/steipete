@@ -136,7 +136,7 @@ Now at **OpenAI**, working on agents; stewarding **OpenClaw** as open and indepe
 
 ## GitHub Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/steipete)
+![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=steipete&hide_border=true)
 
 ## What I'm Doing
 
