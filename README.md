@@ -136,7 +136,14 @@ Now at **OpenAI**, working on agents; stewarding **OpenClaw** as open and indepe
 
 ## GitHub Activity
 
-![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=steipete&hide_border=true)
+<div align="center">
+  <a href="https://commit-history.com/steipete">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/steipete?theme=dark" />
+      <img alt="steipete's commit history" src="https://commit-history.com/embed/steipete" />
+    </picture>
+  </a>
+</div>
 
 ## What I'm Doing
 
