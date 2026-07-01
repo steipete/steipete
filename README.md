@@ -16,13 +16,13 @@ Now at **OpenAI**, working on agents; stewarding **OpenClaw** as open and indepe
 
 ## Start Here
 
-- 🦞 **[OpenClaw](https://openclaw.ai)** (370k+ stars) - the AI that actually does things
-- 🎚️ **[CodexBar](https://github.com/steipete/CodexBar)** (11.9k+ stars) - keep agent limits in view
-- 🐾 **[ClawHub](https://clawhub.ai)** (8.5k+ stars) - OpenClaw skill directory
-- 🧭 **[gogcli](https://gogcli.sh)** (7.2k+ stars) - Google in your terminal
-- 👉 **[summarize](https://github.com/steipete/summarize)** (5.8k+ stars) - point at any URL or file, get the gist
-- 📜 **[agent-scripts](https://github.com/steipete/agent-scripts)** (3k+ stars) - shared rules/knowledge for coding with agents
-- 🚀 **[Peekaboo](https://github.com/openclaw/Peekaboo)** (3.4k+ stars) - macOS screenshots & GUI automation for agents
+- 🦞 **[OpenClaw](https://openclaw.ai)** (381k+ stars) - the AI that actually does things
+- 🎚️ **[CodexBar](https://github.com/steipete/CodexBar)** (15.6k+ stars) - keep agent limits in view
+- 🐾 **[ClawHub](https://clawhub.ai)** (9k+ stars) - OpenClaw skill directory
+- 🧭 **[gogcli](https://gogcli.sh)** (8k+ stars) - Google in your terminal
+- 👉 **[summarize](https://github.com/steipete/summarize)** (6.2k+ stars) - point at any URL or file, get the gist
+- 📜 **[agent-scripts](https://github.com/steipete/agent-scripts)** (5.2k+ stars) - shared rules/knowledge for coding with agents
+- 🚀 **[Peekaboo](https://github.com/openclaw/Peekaboo)** (4.8k+ stars) - macOS screenshots & GUI automation for agents
 
 ## Current Projects
 
@@ -35,14 +35,14 @@ Now at **OpenAI**, working on agents; stewarding **OpenClaw** as open and indepe
 - 🧩 **[clawdex](https://github.com/openclaw/clawdex)** - Local-first contact crawler and markdown archive CLI
 - 🩹 **[clawpatch](https://github.com/openclaw/clawpatch)** - Automated code review that lands fixes
 - 🦀 **[Crabbox](https://crabbox.sh)** - Warm a box, sync the diff, run the suite.
-- 🕹️ **[Crabyard](https://github.com/openclaw/crabyard)** - Mission control for Agent runs
+- 🕹️ **[Crabfleet](https://github.com/openclaw/crabfleet)** - Mission control for agent runs
 - 🧪 **[ask-molty](https://github.com/openclaw/ask-molty)** - Ask Molty, shipped as an OpenClaw workspace
 
 ### Agent Runtime & Dev Tools
 
 - 🧵 **[acpx](https://acpx.sh)** - Headless CLI client for stateful ACP sessions
 - 🛟 **[fs-safe](https://fs-safe.io)** - Race-resistant root-bounded filesystem primitives for Node.js
-- 🧪 **[multipass](https://github.com/openclaw/multipass)** - Deterministic messaging-provider tests for OpenClaw
+- 🧪 **[crabline](https://github.com/openclaw/crabline)** - Deterministic local messaging-channel mocks for OpenClaw QA
 - 🛤️ **[proxyline](https://github.com/openclaw/proxyline)** - Process-global proxy routing for Node.js
 - 🦞 **[lobster](https://github.com/openclaw/lobster)** - OpenClaw-native workflow shell for typed pipelines and approval gates
 - 🧳 **[mcporter](https://mcporter.sh)** - Call MCPs from TypeScript or package them as a CLI
@@ -60,7 +60,7 @@ Now at **OpenAI**, working on agents; stewarding **OpenClaw** as open and indepe
 - ✈️ **[telecrawl](https://github.com/openclaw/telecrawl)** - Telegram Desktop archive CLI
 - 🪶 **[birdclaw](https://birdclaw.sh)** - Twitter archive archaeology with Git-backed memory
 - 🛰️ **[discrawl](https://discrawl.sh)** - Mirror Discord into SQLite; search server history locally
-- 🧵 **[slacrawl](https://github.com/vincentkoc/slacrawl)** - Slack history, clawed into SQLite
+- 🧵 **[slacrawl](https://github.com/openclaw/slacrawl)** - Slack history, clawed into SQLite
 - 🧱 **[notcrawl](https://github.com/openclaw/notcrawl)** - Local-first Notion crawler into SQLite and Markdown
 
 ### macOS, Swift & Native Automation
@@ -68,7 +68,7 @@ Now at **OpenAI**, working on agents; stewarding **OpenClaw** as open and indepe
 - 🚀 **[Peekaboo](https://github.com/openclaw/Peekaboo)** - Lightning-fast macOS screenshots & GUI automation (MCP + CLI)
 - 🗣️ **[sag](https://sag.sh)** - ElevenLabs speech with mac-style `say` UX; streams to speakers by default
 - 🎙️ **[Brabble](https://github.com/steipete/brabble)** - Wake-word voice daemon for macOS; transcribes locally and fires configurable hooks
-- 🎙️ **[Swabble](https://github.com/steipete/Swabble)** - Local Speech.framework wake-word hook daemon for macOS
+- 🎙️ **[Swabble](https://github.com/openclaw/Swabble)** - Local Speech.framework wake-word hook daemon for macOS
 - 📞 **[vox](https://github.com/steipete/vox)** - Let your agent make the phone call
 - 📣 **[ElevenLabsKit](https://github.com/steipete/ElevenLabsKit)** - ElevenLabs voices on tap—SwiftPM-friendly, streaming-native.
 - 🤖 **[macOS Automator MCP](https://github.com/steipete/macos-automator-mcp)** - Your Friendly Neighborhood RoboScripter™
@@ -114,7 +114,7 @@ Now at **OpenAI**, working on agents; stewarding **OpenClaw** as open and indepe
 - 🚇 **[VibeTunnel](https://github.com/amantus-ai/vibetunnel)** - Turn any browser into your terminal; command agents from the road (vt.sh)
 - 🎚️ **[CodexBar](https://github.com/steipete/CodexBar)** - May your tokens never run out—keep agent limits in view.
 - 🚦 **[RepoBar](https://github.com/steipete/RepoBar)** - CI, PRs, releases—at a glance
-- 📦 **[ReleaseDeck](https://github.com/steipete/ReleaseDeck)** - Release freshness dashboard for GitHub users and orgs
+- 📦 **[ReleaseBar](https://github.com/steipete/ReleaseBar)** - Release freshness dashboard for public GitHub users and orgs
 - 🧱 **[canvas](https://github.com/steipete/canvas)** - A browser canvas where agents can draw conclusions
 - 📖 **[llm.codes](https://github.com/amantus-ai/llm-codes)** - Transform developer documentation for AI agents
 - 📊 **[Stats Store](https://github.com/steipete/stats-store)** - Fast, privacy-first analytics for Sparkle (stats.store)
@@ -170,7 +170,7 @@ Now at **OpenAI**, working on agents; stewarding **OpenClaw** as open and indepe
 
 - Featured in **[The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/software-engineering-with-llms-in-2025)** newsletter
 - International speaker ([See my talks](https://github.com/steipete/speaking))
-- 58k+ GitHub stars across personal projects; 400k+ across OpenClaw projects
+- 67k+ GitHub stars across personal projects; 428k+ across OpenClaw projects
 - Bootstrapped PSPDFKit to millions in ARR before exit
 
 ### Media
