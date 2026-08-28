@@ -16,13 +16,13 @@ Now at **OpenAI**, working on agents; stewarding **OpenClaw** as open and indepe
 
 ## Start Here
 
-- 🦞 **[OpenClaw](https://openclaw.ai)** (381k+ stars) - the AI that actually does things
-- 🎚️ **[CodexBar](https://github.com/steipete/CodexBar)** (15.6k+ stars) - keep agent limits in view
+- 🦞 **[OpenClaw](https://openclaw.ai)** (387k+ stars) - the AI that actually does things
+- 🎚️ **[CodexBar](https://github.com/steipete/CodexBar)** (20k+ stars) - keep agent limits in view
 - 🐾 **[ClawHub](https://clawhub.ai)** (9k+ stars) - OpenClaw skill directory
 - 🧭 **[gogcli](https://gogcli.sh)** (8k+ stars) - Google in your terminal
-- 👉 **[summarize](https://github.com/steipete/summarize)** (6.2k+ stars) - point at any URL or file, get the gist
-- 📜 **[agent-scripts](https://github.com/steipete/agent-scripts)** (5.2k+ stars) - shared rules/knowledge for coding with agents
-- 🚀 **[Peekaboo](https://github.com/openclaw/Peekaboo)** (4.8k+ stars) - macOS screenshots & GUI automation for agents
+- 👉 **[summarize](https://github.com/steipete/summarize)** (6k+ stars) - point at any URL or file, get the gist
+- 📜 **[agent-scripts](https://github.com/steipete/agent-scripts)** (6k+ stars) - shared rules/knowledge for coding with agents
+- 🚀 **[Peekaboo](https://github.com/openclaw/Peekaboo)** (5k+ stars) - macOS screenshots & GUI automation for agents
 
 ## Current Projects
 
